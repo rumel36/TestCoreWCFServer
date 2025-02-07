@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "TestCoreWCFServer": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        "launchbrowser": "false" 
+      }
+      //"applicationUrl": "https://localhost:7082;http://localhost:7083"
+    }
+  }
+}
